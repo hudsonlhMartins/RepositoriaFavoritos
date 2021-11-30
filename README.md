@@ -1,7 +1,8 @@
-<h1 align='center'>Repositorios Favoritos</h1>
+<h1 align='center' >Repositorios Favoritos</h1>
 
-<img src='./GitImg/Repo.gif' alt='' />
+<img src='./GitImg/Repo.gif'  alt='gif de demostração' />
 
+<img src='./GitImg/repos.png' alt='imagem de demostração'>
 <br/>
 
 <h3>Objetivo</h3>
